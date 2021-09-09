@@ -1,4 +1,4 @@
-def odd_even(int build_number){
+def call(int build_number){
     if (build_number%2 == 0){
         pipeline{
             agents any 
